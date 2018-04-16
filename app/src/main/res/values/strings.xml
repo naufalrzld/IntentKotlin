@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IntentKotlin</string>
+    <string name="go_to_activity2">Go to Activity2</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="go_to_activity2_with_data">Go to Activity2 With Data</string>
+</resources>
